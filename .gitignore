@@ -1,0 +1,9 @@
+**.svg
+.venv
+.idea
+.vscode
+plots
+lstm_tuning
+gru_tuning
+cnn_tuning
+cnn_lstm_tuning
