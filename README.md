@@ -2,7 +2,13 @@
 
 Inteligentná analýza údajov - 5.semester
 
-## Semestrálna práca (Projekt - 3. časti)
+###### Poznámka
+
+Projekt bol riešený v inom repozitári, ktorý je súkromný. Tento repozitár slúži len ako import a commity neodzrkadľujú skutočný priebeh projektu.
+
+## Semestrálna práca
+
+Na predmete bolo za úlohu riešiť semestrálny projekt, ktorý sa skladal z troch častí resp. fáz, pričom zadanie a jednotlivé fázy sú uvedené nižšie.
 
 #### Autori
  - **Jan Lenhart**
@@ -13,9 +19,7 @@ Inteligentná analýza údajov - 5.semester
 
 ## Zadanie
 
-**Celé zadanie**
-
-[Zadanie PDF](./assignment_info/2024-IAU-zadanie.pdf)
+[Celé Zadanie PDF](./assignment_info/2024-IAU-zadanie.pdf)
 
 [Data Description PDF](./assignment_info/IAU-2024-DataDescription.pdf)
 
@@ -28,8 +32,10 @@ Každá podúloha má ešte svoje časi A, B, C, ...
     - [x] 1.2 Identifikácia problémov, integrácia a čistenie dát (5b)
     - [x] 1.3 Formulácia a štatistické overenie hypotéz o dátach (5b)
 
-___Fáza 1 body: 13,5/15
-Feedback:
+[Fáza 1](./Phase1.ipynb)
+
+___Fáza 1 body: 13,5/15 <br>
+Feedback: <br>
 Formulacia hypotez by mohla byt viac jednoznacna. Co je "normalny stav"? co znamena "inu vahu" ? Chyba overenie statistickej sily (check Effect Size and Power anlysis).___
 
 - [x] Fáza 2 - Predspracovanie údajov (15b)
@@ -37,8 +43,10 @@ Formulacia hypotez by mohla byt viac jednoznacna. Co je "normalny stav"? co znam
     - [x] 2.2 Výber atribútov pre strojové učenie (5b)
     - [x] 2.3 Replikovateľnosť predspracovania (5b)
 
-___Fáza 2 body: 13,75/15
-Feedback:
+[Fáza 2](./Phase2.ipynb)
+
+___Fáza 2 body: 13,75/15 <br>
+Feedback: <br>
 2.1-A - chyba overenie podobnosti train/test distribucie (-0.25). 2.3-B - na test set bola pouzita fit_transform(), kedze ma byt transform() (-1b)___
 
 - [x] Fáza 3 - Strojové učenie (20b)
@@ -47,8 +55,10 @@ Feedback:
     - [x] 3.3  Optimalizácia alias hyperparameter tuning (5b)
     - [x] 3.4  Vyhodnotenie vplyvu zvolenej stratégie riešenia na klasiﬁkáciu (5b)
 
-___Fáza 3 body: 20/20
-Feedback:
+[Fáza 3](./Phase3.ipynb)
+
+___Fáza 3 body: 20/20 <br>
+Feedback: <br>
 Well Done!___
 
 **Aktivita na cvičení**
@@ -63,8 +73,10 @@ Vybrali sme si Q2. Dataset pre Q2 bol stiahnutí z [kaggle](https://www.kaggle.c
     - [x] 4.1 EDA and data preprocessing (5b)
     - [x] 4.2. Modeling and evaluation (5b)
 
-___Aktivita body: x/10
-Feedback:
+[Aktivita](./Deep_learning_activity.ipynb)
+
+___Aktivita body: x/10 <br>
+Feedback: <br>
 TBD___
 
 ## Spustenie projektu
@@ -81,4 +93,3 @@ pip install -r requirements.txt
 ```
 
 - Jupyter Notebook
-
