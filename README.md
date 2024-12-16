@@ -34,9 +34,9 @@ Každá podúloha má ešte svoje časi A, B, C, ...
 
 [Fáza 1](./Phase1.ipynb)
 
-___Fáza 1 body: 13,5/15 <br>
-Feedback: <br>
-Formulacia hypotez by mohla byt viac jednoznacna. Co je "normalny stav"? co znamena "inu vahu" ? Chyba overenie statistickej sily (check Effect Size and Power anlysis).___
+___Fáza 1 body: 13,5/15___ <br>
+___Feedback:___ <br>
+*Formulacia hypotez by mohla byt viac jednoznacna. Co je "normalny stav"? co znamena "inu vahu" ? Chyba overenie statistickej sily (check Effect Size and Power anlysis).*
 
 - [x] Fáza 2 - Predspracovanie údajov (15b)
     - [x] 2.1 Realizácia predspracovania dát (5b)
@@ -45,9 +45,9 @@ Formulacia hypotez by mohla byt viac jednoznacna. Co je "normalny stav"? co znam
 
 [Fáza 2](./Phase2.ipynb)
 
-___Fáza 2 body: 13,75/15 <br>
-Feedback: <br>
-2.1-A - chyba overenie podobnosti train/test distribucie (-0.25). 2.3-B - na test set bola pouzita fit_transform(), kedze ma byt transform() (-1b)___
+___Fáza 2 body: 13,75/15___ <br>
+___Feedback:___ <br>
+*2.1-A - chyba overenie podobnosti train/test distribucie (-0.25). 2.3-B - na test set bola pouzita fit_transform(), kedze ma byt transform() (-1b)*
 
 - [x] Fáza 3 - Strojové učenie (20b)
     - [x] 3.1  Jednoduchý klasifikátor na základe závislosti v dátach (5b)
@@ -57,9 +57,9 @@ Feedback: <br>
 
 [Fáza 3](./Phase3.ipynb)
 
-___Fáza 3 body: 20/20 <br>
-Feedback: <br>
-Well Done!___
+___Fáza 3 body: 20/20___ <br>
+___Feedback:___ <br>
+*Well Done!*
 
 **Aktivita na cvičení**
 The QUEST (stačí jeden z dvoch, buď Q1 alebo Q2)
@@ -75,21 +75,21 @@ Vybrali sme si Q2. Dataset pre Q2 bol stiahnutí z [kaggle](https://www.kaggle.c
 
 [Aktivita](./Deep_learning_activity.ipynb)
 
-___Aktivita body: x/10 <br>
-Feedback: <br>
-TBD___
+___Aktivita body: x/10___ <br>
+___Feedback:___ <br>
+*TBD*
 
 ## Spustenie projektu
 
 ### Prerekvizity
 
-*Ideálne je použiť virtual enviroment pre python*
+Ideálne je použiť virtual enviroment pre python.
 
 - Python
 - Knižnice
+- Jupyter Notebook
 
+Nainštalovanie knižníc:
 ```bash
 pip install -r requirements.txt
 ```
-
-- Jupyter Notebook
