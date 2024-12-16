@@ -2,7 +2,7 @@
 .venv
 .idea
 .vscode
-plots
+# plots
 lstm_tuning
 gru_tuning
 cnn_tuning
