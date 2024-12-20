@@ -75,9 +75,9 @@ Vybrali sme si Q2. Dataset pre Q2 bol stiahnutí z [kaggle](https://www.kaggle.c
 
 [Aktivita](./Deep_learning_activity.ipynb)
 
-___Aktivita body: x/10___ <br>
-___Feedback:___ <br>
-*TBD*
+___Aktivita body: 10/10___ <br>
+<!-- ___Feedback:___ <br> -->
+<!-- *TBD* -->
 
 ## Spustenie projektu
 
